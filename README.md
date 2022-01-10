@@ -85,6 +85,6 @@ example.csv
 The Results will always be output as a *csv* similar to the example below.
 
 | Email | AccountStatus	| AccountType | Last Password Change | Password | Times Password Leaked | Times Email Leaked | Domains | Dates | Most Recent | Data Types Leaked |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| john.doe@example.com | Not-Found | N/A | | N/A | N/A | N/A | N/A | N/A | N/A |
-| jane.doe@somemail.com | Not-Found | N/A | | N/A | N/A | N/A | N/A | N/A | N/A |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| john.doe@example.com | Not-Found | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |
+| jane.doe@somemail.com | Not-Found | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |
