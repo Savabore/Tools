@@ -2,7 +2,7 @@
 
 This tool is a command line tool that allows the user to query a list of emails and passwords in IBM BluePages and *Have I Been PWND*. The results will be in a *CSV* file containing the status of the email and if it is associated with any online credential leaks.
 
-### Download the script [here](...s/blob/master/cred-tool.py)
+### Download the script [here](https://github.com/Savabore/Tools/blob/main/Leak%20Checker)
 
 ## Dependencies
 | Library Name | Install Method |
