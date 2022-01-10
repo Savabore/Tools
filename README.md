@@ -1,6 +1,6 @@
 # cred-tool.py
 
-This tool is a command line tool that allows the user to query a list of emails and passwords in IBM BluePages and *Have I Been PWND*. The results will be in a *CSV* file containing the status of the email and if it is associated with any online credential leaks.
+This tool is a command line tool that allows the user to query a list of emails and passwords in directory services and *Have I Been PWND*. The results will be in a *CSV* file containing the status of the email and if it is associated with any online credential leaks.
 
 ### Download the script [here](https://github.com/Savabore/Tools/blob/main/cred-tool.py)
 
